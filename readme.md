@@ -25,11 +25,15 @@ THEN the saved events persist
 
 * html
   1. Cloned starter code into other folder then made my own folder with new repository.
+  2. moved the links to one line each.
+  3. 
   
 * css
+1. made a boodstrap file and copy paste code
 
 * Java
-
+1. made a bootstrap file and copy paste code.
+2. 
   
     
   
