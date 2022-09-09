@@ -31,6 +31,8 @@ THEN the saved events persist
   5.  i will add, text area and a button to save time inside first div.
   6. inside button i will add class name for starter code css and java ater and class fas fa-save to look link a save icon.
   7. i will start messing with the col- in each class to position everything like the example. 
+  8. start copy and paste the time-block div for each hour of the day.
+  9. edit the hour and data-hour for each row.
   
 * css
 1. made a boodstrap file and  bootstrap mini  download copy paste code 
