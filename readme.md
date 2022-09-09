@@ -26,13 +26,17 @@ THEN the saved events persist
 * html
   1. Cloned starter code into other folder then made my own folder with new repository.
   2. moved the links to one line each.
-  3. 
+  3. Inside container i will start with div for time block to make area a row for each hour of the day using grid system also giving name of class for starter code css and self made java later.
+  4. Inside the time block div add a  personal div for the time of the day.
+  5.  i will add, text area and a button to save time inside first div.
+  6. inside button i will add class name for starter code css and java ater and class fas fa-save to look link a save icon.
+  7. i will start messing with the col- in each class to position everything like the example. 
   
 * css
-1. made a boodstrap file and copy paste code
+1. made a boodstrap file and  bootstrap mini  download copy paste code 
 
 * Java
-1. made a bootstrap file and copy paste code.
+1. made a bootstrap file and bootstrap mini download copy paste code.
 2. 
   
     
