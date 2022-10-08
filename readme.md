@@ -1,3 +1,6 @@
+<img width="300" alt="Screen Shot 2022-10-08 at 2 29 48 PM" src="https://user-images.githubusercontent.com/106838166/194724315-0005e1ad-a905-43ab-8359-5abdc2ea9269.png">
+
+
 # Schedule for the day
 
 ## Git clone
