@@ -36,10 +36,24 @@ THEN the saved events persist
   
 * css
 1. made a boodstrap file and  bootstrap mini  download copy paste code 
+2. give body default style.
+3. start with looking as classes on html to start styling.
+4. jumptron header with top of page.
+5. make sure time block has text in center
+6. give row space and a white border to seperate when it shows color for time
+7. give stlye to the hours with a dashed border.
+8. give color to past present ans future when the occure
+9. style the save buttons
 
 * Java
 1. made a bootstrap file and bootstrap mini download copy paste code.
-2. 
+2. start with adding current time and date.
+3. make function to initialize schedule
+4. for each time block will attach data hour 
+5. set todo object to relate hour and accpect text
+6. set a local storage to do items
+7. for each time clock it will allow to show what part of the day it is.
+8. loop thru array then assign the text to the timeBlock with data-hour equal to hour.
   
     
   
